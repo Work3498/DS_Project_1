@@ -1,0 +1,21 @@
+title: DS Portfolio
+
+
+title: DS Portfolio
+description: A portfolio showcasing my data science projects and skills
+author: SRN:7826201968
+
+logo: /images/profilephoto.png
+show_downloads: true
+theme: jekyll-theme-minimal
+
+# SEO
+lang: en-GB
+tagline: Data Scientist | Machine Learning Engineer
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
